@@ -11,7 +11,7 @@ def fizzbuzz(int)
   end
   
   if int % 15 == 0
-    return "fizzbuzz"
+    return "fizzBuzz"
   end
   
 end
