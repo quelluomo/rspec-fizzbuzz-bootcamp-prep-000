@@ -7,11 +7,11 @@ def fizzbuzz(int)
   end
   
   if int % 5 == 0
-    "Buzz"
+    return "Buzz"
   end
   
   if int % 15 == 0
-    "fizzbuzz"
+    return "fizzbuzz"
   end
   
 end
